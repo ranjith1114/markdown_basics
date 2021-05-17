@@ -64,6 +64,10 @@ code
 1. item 1
 2. item 2
 
+<!--check boxes-->
+- [ ] item 1
+- [x] item 2
+
 <!--code stuff-->
 
 ```bash
