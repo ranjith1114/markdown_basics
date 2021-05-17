@@ -4,7 +4,7 @@
 
 ---
 <!-- for headings -->
-###syntax for headings:
+### syntax for headings:
 
 ```
 ## heading 2
