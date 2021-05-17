@@ -1,4 +1,7 @@
 # How to write mark down files:
+
+click on raw to see the markdown structure
+
 ---
 <!-- for headings -->
 ## heading 2
@@ -7,17 +10,21 @@
 <!--for italics-->
 _italics_
 *italics*
+
 ---
 <!--for strong-->
 **strong/bold**
+
 ---
 <!--to scratch the text-->
 ~~1000/scratch~~ **bold**
+
 ---
 <!--links-->
 [google](https://www.google.com)
 
 [google](https://www.google.com "google")
+
 ---
 <!--to provide images-->
 Images
@@ -27,6 +34,7 @@ Images
 ---
 <!--to provide code-->
 use `for` loop
+
 ---
 <!--multi line code-->
 ```
@@ -40,6 +48,8 @@ code
 |--- |--- |--- |
 |one |two |three|
 |four |five |six |
+|one |two |three|
+
 ---
 <!--for quotes-->
 >keep smiling and work harder
