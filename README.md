@@ -102,24 +102,24 @@ code
 ---
 <!--check boxes-->
 ### syntax for Checkboxes:
-- [] item 1
+- [ ] item 1
 - [x] item 2
 ---
 <!--code stuff-->
 ### syntax for different code languages:
 ```
-```bash
+\```bash
 	npm install
 	npm start
-```
+\```
 
 ---
 
-```python
+\```python
 	def hello():
 		st = print("hello world!")
 		return st
-```
+\```
 Markdown output:
 ```
 
