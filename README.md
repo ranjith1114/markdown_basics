@@ -1,10 +1,9 @@
 # How to write mark down files:
-
 ---
 <!-- for headings -->
 ## heading 2
 ### heading 3
-
+***
 <!--for italics-->
 _italics_
 *italics*
