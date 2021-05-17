@@ -1,7 +1,7 @@
-How to write mark down files:
+# How to write mark down files:
 <!-- for headings -->
-# heading 1
 ## heading 2
+### heading 3
 
 <!--for italics-->
 _italics_
