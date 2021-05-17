@@ -12,6 +12,7 @@
 #### heading 4
 ##### heading 5
 ```
+### output:
 
 ## heading 2
 ### heading 3
@@ -23,10 +24,13 @@
 ### syntax for italics:
 ```
 text in _italics_
+
 *italics*
 ```
 
+### output:
 text in _italics_
+
 *italics*
 
 ---
@@ -38,11 +42,13 @@ text in **bold**
 ```
 
 text in **bold**
+
 **strong/bold**
 
 ---
 <!--to scratch the text-->
 ### syntax for scratch:
+
 ~~1000/scratch~~ **bold**
 
 ---
