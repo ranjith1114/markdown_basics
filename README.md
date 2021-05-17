@@ -21,6 +21,10 @@
 ***
 <!--for italics-->
 ### syntax for italics:
+```
+text in _italics_
+*italics*
+```
 
 text in _italics_
 *italics*
@@ -28,6 +32,10 @@ text in _italics_
 ---
 <!--for strong-->
 ### syntax for bold:
+```
+text in **bold**
+**strong/bold**
+```
 
 text in **bold**
 **strong/bold**
