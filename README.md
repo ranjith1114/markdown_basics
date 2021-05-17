@@ -1,9 +1,16 @@
 # How to write mark down files:
 
-click on raw to see the markdown structure
+
 
 ---
 <!-- for headings -->
+syntax for headings 
+
+```
+## heading 2
+### heading 3
+```
+
 ## heading 2
 ### heading 3
 ***
