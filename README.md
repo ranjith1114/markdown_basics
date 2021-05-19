@@ -1,4 +1,4 @@
-# How to write mark down files:
+# How to write mark down files (.md files):
 
 
 
